@@ -137,4 +137,5 @@ password="${env.passwordProp}" in server.xml and then System.getenv("passwordPro
 <jndiEntry jndiName=“password” value=“${password}“/>
 ```
 #### Thanks
-bwa, andyg, alasdair
+- @bwa @treo for assistance with pom.xml creation
+- @aguibert @alasdair for the environment variable settings
