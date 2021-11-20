@@ -73,7 +73,6 @@ To test the Custom User Registry, we use a basicauth application. The applicatio
     </application>
 ```
 
-### Creating a Custom User Registry jar file 
 
 ## Running the server with the Custom User Registry
 
